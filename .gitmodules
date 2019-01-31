@@ -1,3 +1,6 @@
 [submodule "repo2"]
 	path = repo2
 	url = /home/user/repo2
+[submodule "s/hello-cgit"]
+	path = s/hello-cgit
+	url = https://github.com/DeadlyHollows/hello-cgit
